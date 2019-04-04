@@ -21,7 +21,7 @@ app.get('/:Webnumber', function(req, res){
                 output += `<li>${name}</li>`;
             });
         output += `</ul>`;
-        res.send(output);
+        
     } catch (error){
         res.send("404 Not Found!");
     }
