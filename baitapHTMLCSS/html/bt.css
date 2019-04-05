@@ -1,0 +1,33 @@
+.menu{
+    background-color: #D5B0AC;
+    font-weight: bold;
+}
+
+.item{
+    width: 100px;
+    height: 30px;
+    display: inline-block;
+    line-height: 1.9;
+}
+.margin{
+    margin-left: 30%;
+}
+.green:hover{
+    background-color: #9CD08F;
+    color: #FFFFFF;
+}
+.text{
+    text-align: center;
+}
+.item2{
+    width: 100px;
+    height: 30px;
+    display: block;
+    line-height: 1.9;
+    border-top: 5px solid #FFFFFF;
+}
+.menu_vetical{
+    width: 100px;
+    height: 140px;
+  
+}
