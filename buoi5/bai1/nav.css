@@ -38,6 +38,6 @@ span:hover > .sub-menu {
 }
 
 .sub-menu span:hover > .sub-menu {
-    margin-left: 20px;
-    display: inline;
+    left: 100%;
+    top:0%;
 }
